@@ -1,0 +1,3 @@
+C:/Users/ÜMİT/Desktop/UNI/2024 Spring/CS 202/BST/cmake-build-debug/CMakeFiles/BST.dir
+C:/Users/ÜMİT/Desktop/UNI/2024 Spring/CS 202/BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ÜMİT/Desktop/UNI/2024 Spring/CS 202/BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
